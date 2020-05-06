@@ -21,14 +21,14 @@
 
 .infoCardContainer--vintage {
     max-width: 1260px;
-    border: 0px auto;
+    border: 0px;
     padding: 0px;
     background-color: #EDCFD1;
 }
 
 .infoCardContainer--metal {
     max-width: 1260px;
-    border: 0px auto;
+    border: 0px;
     padding: 0px;
     background-color: #EDCFD1;
 }
