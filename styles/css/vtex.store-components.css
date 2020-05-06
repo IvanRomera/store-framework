@@ -20,15 +20,15 @@
 }
 
 .infoCardContainer--vintage {
-    background-color: #EDCFD1
-}
-
-.infoCardContainer--metal {
-    background-color: #E1E1E1
-}
-
-.infoCardContainer {
     max-width: 1260px;
     border: 0px auto;
     padding: 0px;
+    background-color: #EDCFD1;
+}
+
+.infoCardContainer--metal {
+    max-width: 1260px;
+    border: 0px auto;
+    padding: 0px;
+    background-color: #E1E1E1;
 }
