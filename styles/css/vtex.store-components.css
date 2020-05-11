@@ -17,14 +17,16 @@
     background-color: white;
     border: transparent;
 }
- 
-.infoCardContainer {
-        max-width: "1260px";
-        border: 0 auto;
-        padding: 0;;
-}
 
+.infoCardImageContainer{
+    max-width: 1260px;
+    border: 0px auto;
+    padding: 0;
+}
+ 
 .infoCardContainer--vintage {
+    max-width: 1260px;
+    border: 200;
 
     background-color: #EDCFD1;
 }
