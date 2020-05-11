@@ -18,13 +18,13 @@
     background-color: white;
     border: transparent;
 }
- /* 
+
 .infoCardContainer{
   max-width: 1260px; 
     border: 0px auto;
     padding: 0;
 }
- */
+
 .infoCardContainer--vintage {
     background-color: #EDCFD1;
 }
