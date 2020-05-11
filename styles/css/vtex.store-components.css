@@ -17,11 +17,11 @@
     background-color: white;
     border: transparent;
 }
-
-.infoCardImageContainer {
-  /*  max-width: 1260px;*/
-    border: 0 auto;
-    padding: 0;
+ 
+.infoCardContainer {
+        max-width: "1260px";
+        border: 0 auto;
+        padding: 0;;
 }
 
 .infoCardContainer--vintage {
