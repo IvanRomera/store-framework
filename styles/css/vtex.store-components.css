@@ -6,7 +6,6 @@
     border: 2px solid black;
     padding: 24px;
 }
-
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
@@ -20,8 +19,8 @@
 }
 .infoCardContainer {
     max-width: 1260px;
-    border: 0px auto;
-    padding: 0px;
+    border: 0 auto;
+    padding: 0;
 }
 
 .infoCardContainer--vintage {
