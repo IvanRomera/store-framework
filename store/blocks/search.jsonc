@@ -24,7 +24,7 @@
     "props": {
       "maxItemsPerPage": 10,
       "pagination": true,
-      "indexOf": 10,
+      "indexOf": 10
     }
 
   }
