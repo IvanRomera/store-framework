@@ -24,7 +24,7 @@
     "props": {
       "maxItemsPerPage": 10,
       "pagination": true,
-      "indexOf": "electronics"
+      "indexOf": "Small-Appliances"
     }
 
   }
