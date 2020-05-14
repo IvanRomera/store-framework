@@ -22,9 +22,11 @@
       "search-fetch-more"
     ],
     "props": {
-     // "indexOf": "10",
+      "indexOf": 10,
+      "maxItemsPerPage": 10,
       "pagination": true
     }
+
   }
  }
 
