@@ -22,9 +22,9 @@
       "search-fetch-more"
     ],
     "props": {
-      "indexOf": 10,
       "maxItemsPerPage": 10,
-      "pagination": true
+      "pagination": true,
+      "indexOf": 10,
     }
 
   }
