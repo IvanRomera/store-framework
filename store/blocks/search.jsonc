@@ -11,6 +11,11 @@
   },
 
   "search-result-layout.desktop": {
+    "props": {
+      //  "maxItemsPerPage": 10,
+       "pagination": "show-more"
+      // "indexOf": "Small-Appliances"
+     },
     "blocks": [
       "breadcrumb.search",
       "search-title.v2",
@@ -20,12 +25,8 @@
       "search-content",
       "filter-navigator.v3",
       "search-fetch-more"
-    ],
-    "props": {
-     //  "maxItemsPerPage": 10,
-      "pagination": "show-more"
-     // "indexOf": "Small-Appliances"
-    }
+    ]
+
 
   }
  }
