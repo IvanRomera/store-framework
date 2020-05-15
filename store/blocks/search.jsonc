@@ -22,8 +22,8 @@
       "search-fetch-more"
     ],
     "props": {
-      "maxItemsPerPage": 10,
-      "pagination": true,
+     //  "maxItemsPerPage": 10,
+      "pagination": "show-more",
       "indexOf": "Small-Appliances"
     }
 
