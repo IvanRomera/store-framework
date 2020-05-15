@@ -25,8 +25,7 @@
       "preventVerticalStretch": "false",
       "verticalAlign": "middle"
     },
-    "children": ["product-name", "product-identifier.product", "product-price", "flex-layout.row#qty-sku", "shipping-simulator", "buy-button"] // ,
-  //  "product-identifier": "reference"
+    "children": ["product-name", "product-identifier.product", "product-price", "flex-layout.row#qty-sku", "shipping-simulator", "buy-button"]
   },
 
   "stack-layout#brand":{
