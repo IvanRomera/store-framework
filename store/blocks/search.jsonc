@@ -3,7 +3,7 @@
     "props": {
       //  "maxItemsPerPage": 10,
       // "pagination": "show-more"
-       "indexOf": "Small-Appliances"
+      // "indexOf": "Small-Appliances"
      },
      "blocks": ["search-result-layout"]
   },
