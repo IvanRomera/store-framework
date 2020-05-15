@@ -2,6 +2,7 @@
 {
   "store.home": {
     "blocks": [
+      "store.search",
       "flex-layout.row",
       "shelf",
       "slider-layout#home",
