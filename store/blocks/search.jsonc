@@ -23,8 +23,8 @@
     ],
     "props": {
      //  "maxItemsPerPage": 10,
-      "pagination": "show-more",
-      "indexOf": "Small-Appliances"
+      "pagination": "show-more"
+     // "indexOf": "Small-Appliances"
     }
 
   }
