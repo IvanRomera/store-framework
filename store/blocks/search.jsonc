@@ -1,7 +1,8 @@
 {
   "store.search": {
      "blocks": ["search-result-layout"]
-  },
+  }/*,
+
   "search-result-layout": {
      "blocks": [
         "search-result-layout.desktop",
@@ -26,9 +27,7 @@
       "filter-navigator.v3",
       "search-fetch-more"
     ]
-
-
-  }
+  }*/
  }
 
  
