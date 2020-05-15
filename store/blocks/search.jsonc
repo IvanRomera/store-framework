@@ -1,5 +1,10 @@
 {
   "store.search": {
+    "props": {
+      //  "maxItemsPerPage": 10,
+      // "pagination": "show-more"
+       "indexOf": "Small-Appliances"
+     },
      "blocks": ["search-result-layout"]
   },
 
