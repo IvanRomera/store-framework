@@ -1,24 +1,48 @@
 {
     "store.custom#landing": { 
-      "children": [
-        "image#landingbanner"//, 
-    //    "search-result-layout.customQuery"
-      ]
-    },
+        "blocks": [
+          "image#landingbanner", 
+          "search-result-layout.customQuery"
+        ]
+      },
 
     "image#landingbanner": {
         "props": {
-          //  "minWidth": "100%",
-            "src": "https://www.online-tech-tips.com/wp-content/uploads/2019/12/electronic-gadgets.jpeg"
+            "minWidth": "100%",
+            "src": "https://toledogoldexchange.com/wp-content/uploads/2017/02/electronics-sale-banner-2._V346923865_.png"
         }
-    }/*,
+    },
 
     "search-result-layout.customQuery": {
         "props": {
-            "context": {
+            "querySchema": {
+                "orderByField": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8,
+                "query": "Blue Top Retro Camera",
+                "mapField": "ft",
                 "skusFilter": "FIRST_AVAILABLE",
                 "simulationBehavior": "skip"
             }
          }
-    }*/
+    }/*,
+
+     "search-result-layout": {
+      "blocks": [
+          "search-result-layout.desktop",
+        "search-result-layout.mobile",
+        "search-not-found-layout"
+      ]
+    },
+
+    "search-result-layout.desktop": {
+        "children": [
+          "flex-layout.row#searchbread",
+          "flex-layout.row#searchtitle",
+          "flex-layout.row#result"
+        ],
+        "props": {
+          "preventRouteChange": true
+        }
+      }*/
   }
