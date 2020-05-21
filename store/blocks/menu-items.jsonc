@@ -8,7 +8,7 @@
       }
     },
     "children":[
-      "vtex.menu@2.x:submenu#major"
+      "flex-layout.row#major"
     ]
   },
   "menu-item#small-appliances": {
