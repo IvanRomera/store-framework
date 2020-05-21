@@ -9,7 +9,7 @@
         }
     },
 
-    "vtex.menu@2.x:submenu.accordion#major":{ 
+    "vtex.menu@2.x:submenu#major":{ 
         "children":[ 
             "vtex.menu@2.x:menu#major" 
             ] 
@@ -26,7 +26,7 @@
           }
     },
 
-    "vtex.menu@2.x:submenu.accordion#small":{
+    "vtex.menu@2.x:submenu#small":{
         "children":[
             "vtex.menu@2.x:menu#small"
         ]
@@ -42,6 +42,12 @@
               "orientation": "vertical"
           }
     },
+
+    "vtex.menu@2.x:submenu#electronics":{
+        "children":[
+            "vtex.menu@2.x:menu#electronics"
+        ]
+      },
 
     "vtex.menu@2.x:menu#electronics":{
         "children": [
