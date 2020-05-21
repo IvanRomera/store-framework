@@ -7,8 +7,8 @@
         "text": "Major Aplliances"
       }
     },
-    "children":[
-      "flex-layout.row#major"
+    "blocks":[
+      "vtex.menu@2.x:submenu#major"
     ]
   },
   "menu-item#small-appliances": {
