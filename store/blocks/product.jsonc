@@ -25,20 +25,20 @@
       "preventVerticalStretch": "false",
       "verticalAlign": "middle"
     },
-    "children": ["product-name", "product-identifier.product", "product-price", "flex-layout.row#qty-sku", "shipping-simulator", "buy-button"]
+    "children": ["product-identifier.product", "product-price", "flex-layout.row#qty-sku", "shipping-simulator", "buy-button"]
   },
 
   "stack-layout#brand":{
-    "children": ["product-images", "product-brand"]
+    "children": ["product-images" /*, "product-brand"*/]
   },
-
+/*
   "product-brand": {
     "props": {
       "height": 30,
       "displayMode": "logo"
     }
   },
-
+*/
   "product-price": {
     "props": {
       "showSavings": true,
